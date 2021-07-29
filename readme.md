@@ -12,3 +12,4 @@ fill in your firebase api-key
 npm i 
 npm start
 ```
+If you have any problem [Contact me](https://krasnansky-cv.netlify.app/)
